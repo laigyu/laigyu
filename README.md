@@ -16,6 +16,6 @@ Looking for a job
 <div align="center">
   
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/laigyu) <br>
-BTC : 1PiwsT6zvryp3ikpEctoUzGSZc8rbJNM5h<br>
-ETH : 0x94388d675C3f10cB4EE0C5c985Be6c648e5D86e5<br>
+BTC : bc1q9fyl69kz3nljssjk7dzvhrnvh3qry0vgkeqx04<br>
+ETH : 0xb46796ea3dcd09DD29A8095dC4837dA0985bc2D6<br>
 </div>
