@@ -1,10 +1,11 @@
 <p align="center">
-  <img src="https://github.com/laigyu/laigyu/assets/109860906/6303332b-29e7-4ea5-a765-4659af4cbd8c">
+  <img src="https://github.com/user-attachments/assets/d87ae1df-0f8f-4827-82d2-729b1edb81f0">
 </p>
 
 <p align="center">
-Javascript <br>
+<br>
 </p>
+
 
 
 #
